@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\Patrick Wang\source\repos\TexasHoldEm\TexasHoldEm\Game.cpp(433,20): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Patrick Wang\source\repos\TexasHoldEm\TexasHoldEm\Game.cpp(448,55): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Patrick Wang\source\repos\TexasHoldEm\TexasHoldEm\Game.cpp(449,49): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Patrick Wang\source\repos\TexasHoldEm\TexasHoldEm\Game.cpp(450,20): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  TexasHoldEm.vcxproj -> C:\Users\Patrick Wang\source\repos\TexasHoldEm\Debug\TexasHoldEm.exe
